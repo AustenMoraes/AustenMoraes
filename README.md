@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Austen Moraes 👨‍💻
 
-![Austen GitHub stats](https://github-readme-stats.vercel.app/api?username=AustenMoraes&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que utilizo no meu dia:
 
